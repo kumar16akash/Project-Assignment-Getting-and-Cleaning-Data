@@ -1,0 +1,9 @@
+# CODE BOOK #
+
+ A few variable names are mentioned in this file to identify the column variables.
+ 
+ 
+ * subject_code * - It's value is between 1 to 30. It basically represents the code of volunteers participated in experiment.
+ * activity_code - It contains the code of type of activity performed corresponding to the measurements. Value range is 1 to 6.
+ 
+ *Measurement Variables
