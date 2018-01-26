@@ -1,5 +1,10 @@
+# Files have been already downloaded and all the scripts and files are in a particular folder.
+# Inside which there are two folders named as "train" & "test"
+
 # Getting all the datasets
+
 library(reshape2)
+
 x_train <- read.table("train/X_train.txt")
 y_train <- read.table("train/y_train.txt")
 subject_train <- read.table("train/subject_train.txt")
